@@ -1,0 +1,33 @@
+criaCartao(
+    'MESSI',
+    'QUANTAS BOLAS DE OURO MESSI TEM?',
+    '8 BOLAS DE OURO'
+)
+
+criaCartao(
+    'CR7',
+    'QUANTOS ANOS CRISTIANO RONALDO TEM?',
+    '39 ANOS'
+)
+
+criaCartao(
+    'FUTEBOL',
+    'QUAL O PRIMEIRO TIME DE FUTEBOL A SER CRIADO?',
+    'SHEFFIEL FOOTBALL CLUB?'
+)
+
+criaCartao(
+    'FUTEBOL',
+    'EM QUE ANO O CORINTHIANS FOI FUNDADO?',
+    '1910'
+)
+criaCartao(
+    'FUTEBOL',
+    'QUAL O PRIMEIRO PAÍS A GANHAR UMA COPA DO MUNDO?',
+    'URUGUAI'
+)
+criaCartao(
+    'NEYMAR',
+    'QUANTAS CHAMPIONS LEAGUE TEM NEYMAR?',
+    '1 UCL'
+)
